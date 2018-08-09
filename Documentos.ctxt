@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Documentos
+comment1.params=numeroRG
+comment1.target=void\ setNumeroRG(java.lang.String)
+comment10.params=endereco
+comment10.target=java.lang.String\ getEndereco(java.lang.String)
+comment11.params=email
+comment11.target=java.lang.String\ getEmail(java.lang.String)
+comment12.params=dataDeNasc
+comment12.target=java.util.Date\ getDataDeNasc(java.util.Date)
+comment2.params=numeroCPF
+comment2.target=void\ setNumeroCPF(java.lang.String)
+comment3.params=telefone
+comment3.target=void\ setTelefone(java.lang.String)
+comment4.params=endereco
+comment4.target=void\ setEndereco(java.lang.String)
+comment5.params=email
+comment5.target=void\ setEmail(java.lang.String)
+comment6.params=dataDeNasc
+comment6.target=void\ setDataDeNasc(java.util.Date)
+comment7.params=numeroRG
+comment7.target=java.lang.String\ getNumeroRG(java.lang.String)
+comment8.params=numeroCPF
+comment8.target=java.lang.String\ getNumeroCPF(java.lang.String)
+comment9.params=telefone
+comment9.target=java.lang.String\ getTelefone(java.lang.String)
+numComments=13
