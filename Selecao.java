@@ -1,6 +1,8 @@
-public class Selecao
-{
+import java.util.*;
+
+public class Selecao {
   
+  private List candidatos= new ArrayList<Candidato>();
   private String dataInicio;
   private String dataFim;
   private String tipoDeSelecao;
@@ -15,7 +17,7 @@ public class Selecao
     this.dataInicio= dataInicio;
   }
  
-  public String getDataFim(){
+  public String getDataFim(){ 
     return this.dataFim;
   }
   
